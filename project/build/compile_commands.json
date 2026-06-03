@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/project/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DSDL_MAIN_HANDLED @CMakeFiles/my_sdl_app.dir/includes_C.rsp  -g -g -std=gnu99 -o CMakeFiles\\my_sdl_app.dir\\main.c.obj -c D:\\project\\main.c",
+  "file": "D:/project/main.c",
+  "output": "CMakeFiles/my_sdl_app.dir/main.c.obj"
+}
+]
