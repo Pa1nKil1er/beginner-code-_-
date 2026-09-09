@@ -1,0 +1,1 @@
+{"name":"Local: h","url":"d:\\CODE_cpp\\h.cpp","tests":[{"id":1763818279048,"input":"7 4\nbacbaab\nabac\n","output":"No\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CODE_cpp\\h.cpp","group":"local","local":true}
